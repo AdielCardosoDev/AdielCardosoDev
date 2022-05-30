@@ -1,5 +1,3 @@
-<p>Olá Eu sou Adiel programador .Net | C# | React-Native</p>
-
 [![Adiel Cardoso](https://i.ibb.co/JxZyKPQ/github-header-image.png)
 
 
