@@ -20,8 +20,8 @@
 <br>
 
 <div  style="text-align: center">
-
-[![Adiel Cardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=AdielCardosoDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	
+[![Adiel Cardoso](https://github-stats-extended.vercel.app/api?username=AdielCardosoDev)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 <div style="text-align: center">
