@@ -1,4 +1,4 @@
-# Olá, Eu sou Adiel Cardoso programador Full Stack. ✋
+# Olá, Eu sou Adiel Cardoso! ✋
 
 <br>
 
