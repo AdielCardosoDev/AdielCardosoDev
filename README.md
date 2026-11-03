@@ -1,4 +1,13 @@
 # Olá, Eu sou Adiel Cardoso! ✋
+Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações Web, Mobile e Backend, utilizando tecnologias modernas para criar soluções robustas, escaláveis e eficientes.
+
+Principais tecnologias:
+• Frontend: HTML5, CSS3, JavaScript, TypeScript, Angular
+• Mobile: Ionic, React Native
+• Backend: C#, .NET, ASP Clássico
+• Banco de Dados: SQL Server, SQLite
+
+Foco em desenvolvimento de software, integração entre sistemas, modelagem de dados, otimização de processos e criação de soluções alinhadas às necessidades do negócio.
 
 <br>
 
